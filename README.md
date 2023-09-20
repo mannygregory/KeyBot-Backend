@@ -4,7 +4,7 @@
           <img src="res/images.png" alt="KeyBot">
         <br>
         <br>
-            
+            KeyBot
         <br>
     </h1>
 </div>
